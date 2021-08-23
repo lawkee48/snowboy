@@ -62,8 +62,8 @@ Here is a [demo video](https://www.youtube.com/watch?v=wiLEr6TeE58) for how to u
 
 **Personal model**
 
-* Create your personal hotword model through our [website](https://snowboy.kitt.ai) or [hotword API](https://snowboy.kitt.ai/api/v1/train/)
-
+~~* Create your personal hotword model through our [website](https://snowboy.kitt.ai) or [hotword API](https://snowboy.kitt.ai/api/v1/train/)~~
+(searching for alternative)
 
 * Put your personal model in [snowboy/resources](https://github.com/Kitt-AI/snowboy/tree/master/resources)
 ```
